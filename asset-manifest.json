@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohithb2023cse/bank/static/css/main.33232c85.css",
+    "main.js": "/mohithb2023cse/bank/static/js/main.85c8e91a.js",
+    "static/js/156.3e8662ac.chunk.js": "/mohithb2023cse/bank/static/js/156.3e8662ac.chunk.js",
+    "index.html": "/mohithb2023cse/bank/index.html",
+    "main.33232c85.css.map": "/mohithb2023cse/bank/static/css/main.33232c85.css.map",
+    "main.85c8e91a.js.map": "/mohithb2023cse/bank/static/js/main.85c8e91a.js.map",
+    "156.3e8662ac.chunk.js.map": "/mohithb2023cse/bank/static/js/156.3e8662ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33232c85.css",
+    "static/js/main.85c8e91a.js"
+  ]
+}
