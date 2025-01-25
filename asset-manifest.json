@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bank/static/css/main.33232c85.css",
-    "main.js": "/bank/static/js/main.886cc926.js",
-    "static/js/156.3e8662ac.chunk.js": "/bank/static/js/156.3e8662ac.chunk.js",
-    "index.html": "/bank/index.html",
-    "main.33232c85.css.map": "/bank/static/css/main.33232c85.css.map",
-    "main.886cc926.js.map": "/bank/static/js/main.886cc926.js.map",
-    "156.3e8662ac.chunk.js.map": "/bank/static/js/156.3e8662ac.chunk.js.map"
+    "main.css": "/weather/static/css/main.fce3f045.css",
+    "main.js": "/weather/static/js/main.cdf8046d.js",
+    "static/js/156.1c2fcec2.chunk.js": "/weather/static/js/156.1c2fcec2.chunk.js",
+    "index.html": "/weather/index.html",
+    "main.fce3f045.css.map": "/weather/static/css/main.fce3f045.css.map",
+    "main.cdf8046d.js.map": "/weather/static/js/main.cdf8046d.js.map",
+    "156.1c2fcec2.chunk.js.map": "/weather/static/js/156.1c2fcec2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33232c85.css",
-    "static/js/main.886cc926.js"
+    "static/css/main.fce3f045.css",
+    "static/js/main.cdf8046d.js"
   ]
 }
